@@ -67,6 +67,11 @@ video {
 .nav_link:hover {
   color: #ff7600 ;
 }
+
+.nav_link:hover {
+  color: #ff7600 ;
+}
+
 .button {
   padding: 6px 24px;
   border: 2px solid #fff;
